@@ -1,0 +1,23 @@
+h2{
+    font-size: 70px;
+    font-weight: 800;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow:3px 2px 60px  rgb(226, 83, 17) ;
+    padding: 30px;
+    margin: 10px auto;
+    border-radius: 10px;
+} 
+.blog{
+    border: 3px solid white;
+    margin: 100px;
+    padding: 50px;
+}
+.blog p{
+    color: white;
+    line-height: 40x;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
